@@ -16,7 +16,7 @@
 
 ## 🔧  Tools I Like To Use
 
-- Java
+- Ruby / Ruby On Rails
 - React
 - Sass
 - Styled Components 
