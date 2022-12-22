@@ -3,24 +3,20 @@
 👋 Hi, I’m André, a senior software engineer. Previously i have worked at Rørkjøp where i maintained and developed on a e-commerce & crm platform used by plumbers and at Nordea Bank where i built microservices for their mobile & internet banking application.
 
 ## About Me
-- Im currently working on: JS/React frameworks (Remix) to imporve my web accessibility knowledge and skills.
+- 🔧 Im currently working on: JS/React (Remix) to imporve my web accessibility knowledge and skills.
 
-- 👀 I’m interested in Web3 technologies.
+- 👀 I’m interested in sustainable web based technologies, grasping and following Web3 and E-Commerce trends.
 
-
-- 🌱 I’m currently learning Web 3, JS/React and Styling Components
-
+- 🌱 I’m currently learning building React Components with Typescript.
 
 - 📫 How to reach me: `andrehatlo@icloud.com`
 
-
 ## 🔧  Tools I Like To Use
 
-- Ruby / Ruby On Rails
+- Ruby / Ruby On Rails / Node.js
 - React
 - Sass
 - Styled Components 
-- Tailwind
 - GraphQL
 - Heroku / AWS
 - Iterm2
