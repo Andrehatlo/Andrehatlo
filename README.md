@@ -13,7 +13,7 @@ Previously i have worked at Rørkjøp where i maintained and developed on a e-co
 
 - 📫 How to reach me: `andrehatlo@icloud.com`
 
-- More information abou me at [My Selfbuilt DevFolio](andrehatlo.com)
+- More information abou me at [My Selfbuilt DevFolio](https://www.andrehatlo.com)
 
 ## 🔧  Tools I Like To Use
 
